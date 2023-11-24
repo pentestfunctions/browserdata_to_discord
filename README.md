@@ -64,6 +64,3 @@ This script is for educational purposes only. Use it on systems and data you're 
 
 Contributions are welcome. Fork, modify, and create a pull request with your enhancements.
 
-## 📜 License
-
-[Your License Here]
